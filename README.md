@@ -10,10 +10,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I can speak 4 languages
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/kpachhai)
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -47,24 +43,17 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### Latest Github Activity:
 
-<!-- BLOG-POST-LIST:START -->
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
-<!-- BLOG-POST-LIST:END -->
+<!--START_SECTION:activity-->
+1. ❗️ Closed issue [#4](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/4) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+2. 🗣 Commented on [#4](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/4) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+3. 🎉 Merged PR [#7](https://github.com/codeSTACKr/codestackr-vscode-theme/pull/7) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+4. ❗️ Closed issue [#6](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/6) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+5. 🗣 Commented on [#7](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/7) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+<!--END_SECTION:activity-->
 
-➡️ [more blog posts...](https://codestackr.com)
-
----
-
-
-<summary>GitHub Stats</summary>
-
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kpachhai&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-ruddy-two.vercel.app/api?username=kpachhai&show_icons=true&hide_border=true" />
 
 [website]: https://kpwoods.me
 [twitter]: https://twitter.com/mr_pachhai
