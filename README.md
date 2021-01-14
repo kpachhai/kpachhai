@@ -46,11 +46,11 @@
 ### Latest Github Activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#90](https://github.com/tuum-tech/vouch-capsule/pull/90) in [tuum-tech/vouch-capsule](https://github.com/tuum-tech/vouch-capsule)
-2. 🎉 Merged PR [#65](https://github.com/tuum-tech/assist-capsule/pull/65) in [tuum-tech/assist-capsule](https://github.com/tuum-tech/assist-capsule)
-3. 🎉 Merged PR [#122](https://github.com/elastos/Elastos.Trinity.DApps.DID/pull/122) in [elastos/Elastos.Trinity.DApps.DID](https://github.com/elastos/Elastos.Trinity.DApps.DID)
-4. 🎉 Merged PR [#89](https://github.com/tuum-tech/vouch-capsule/pull/89) in [tuum-tech/vouch-capsule](https://github.com/tuum-tech/vouch-capsule)
-5. 💪 Opened PR [#38](https://github.com/elastos/Elastos.NET.Hive.Node/pull/38) in [elastos/Elastos.NET.Hive.Node](https://github.com/elastos/Elastos.NET.Hive.Node)
+1. ❗️ Opened issue [#39](https://github.com/tuum-tech/assist-restapi-backend/issues/39) in [tuum-tech/assist-restapi-backend](https://github.com/tuum-tech/assist-restapi-backend)
+2. ❗️ Opened issue [#38](https://github.com/tuum-tech/assist-restapi-backend/issues/38) in [tuum-tech/assist-restapi-backend](https://github.com/tuum-tech/assist-restapi-backend)
+3. 🎉 Merged PR [#90](https://github.com/tuum-tech/vouch-capsule/pull/90) in [tuum-tech/vouch-capsule](https://github.com/tuum-tech/vouch-capsule)
+4. 🎉 Merged PR [#65](https://github.com/tuum-tech/assist-capsule/pull/65) in [tuum-tech/assist-capsule](https://github.com/tuum-tech/assist-capsule)
+5. 🎉 Merged PR [#122](https://github.com/elastos/Elastos.Trinity.DApps.DID/pull/122) in [elastos/Elastos.Trinity.DApps.DID](https://github.com/elastos/Elastos.Trinity.DApps.DID)
 <!--END_SECTION:activity-->
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-ruddy-two.vercel.app/api?username=kpachhai&show_icons=true&hide_border=true" />
