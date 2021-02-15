@@ -46,11 +46,11 @@
 ### Latest Github Activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/elastos/Elastos.DID.JS.SDK/pull/4) in [elastos/Elastos.DID.JS.SDK](https://github.com/elastos/Elastos.DID.JS.SDK)
-2. 💪 Opened PR [#63](https://github.com/elastos/Elastos.NET.Hive.Node/pull/63) in [elastos/Elastos.NET.Hive.Node](https://github.com/elastos/Elastos.NET.Hive.Node)
-3. 🎉 Merged PR [#126](https://github.com/elastos/Elastos.Trinity.DApps.DID/pull/126) in [elastos/Elastos.Trinity.DApps.DID](https://github.com/elastos/Elastos.Trinity.DApps.DID)
-4. 🎉 Merged PR [#94](https://github.com/tuum-tech/vouch-capsule/pull/94) in [tuum-tech/vouch-capsule](https://github.com/tuum-tech/vouch-capsule)
-5. 🎉 Merged PR [#93](https://github.com/tuum-tech/vouch-capsule/pull/93) in [tuum-tech/vouch-capsule](https://github.com/tuum-tech/vouch-capsule)
+1. ❗️ Closed issue [#7](https://github.com/tuum-tech/did-email-validator/issues/7) in [tuum-tech/did-email-validator](https://github.com/tuum-tech/did-email-validator)
+2. ❗️ Closed issue [#37](https://github.com/tuum-tech/assist-restapi-backend/issues/37) in [tuum-tech/assist-restapi-backend](https://github.com/tuum-tech/assist-restapi-backend)
+3. ❗️ Closed issue [#38](https://github.com/tuum-tech/assist-restapi-backend/issues/38) in [tuum-tech/assist-restapi-backend](https://github.com/tuum-tech/assist-restapi-backend)
+4. 🎉 Merged PR [#4](https://github.com/elastos/Elastos.DID.JS.SDK/pull/4) in [elastos/Elastos.DID.JS.SDK](https://github.com/elastos/Elastos.DID.JS.SDK)
+5. 💪 Opened PR [#63](https://github.com/elastos/Elastos.NET.Hive.Node/pull/63) in [elastos/Elastos.NET.Hive.Node](https://github.com/elastos/Elastos.NET.Hive.Node)
 <!--END_SECTION:activity-->
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-ruddy-two.vercel.app/api?username=kpachhai&show_icons=true&hide_border=true" />
