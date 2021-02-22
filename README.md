@@ -46,11 +46,11 @@
 ### Latest Github Activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/tuum-tech/did-email-validator/issues/7) in [tuum-tech/did-email-validator](https://github.com/tuum-tech/did-email-validator)
-2. ❗️ Closed issue [#37](https://github.com/tuum-tech/assist-restapi-backend/issues/37) in [tuum-tech/assist-restapi-backend](https://github.com/tuum-tech/assist-restapi-backend)
-3. ❗️ Closed issue [#38](https://github.com/tuum-tech/assist-restapi-backend/issues/38) in [tuum-tech/assist-restapi-backend](https://github.com/tuum-tech/assist-restapi-backend)
-4. 🎉 Merged PR [#4](https://github.com/elastos/Elastos.DID.JS.SDK/pull/4) in [elastos/Elastos.DID.JS.SDK](https://github.com/elastos/Elastos.DID.JS.SDK)
-5. 💪 Opened PR [#63](https://github.com/elastos/Elastos.NET.Hive.Node/pull/63) in [elastos/Elastos.NET.Hive.Node](https://github.com/elastos/Elastos.NET.Hive.Node)
+1. 🎉 Merged PR [#1](https://github.com/tuum-tech/Elastos.NET.Hive.JS.SDK/pull/1) in [tuum-tech/Elastos.NET.Hive.JS.SDK](https://github.com/tuum-tech/Elastos.NET.Hive.JS.SDK)
+2. ❗️ Closed issue [#7](https://github.com/tuum-tech/did-email-validator/issues/7) in [tuum-tech/did-email-validator](https://github.com/tuum-tech/did-email-validator)
+3. ❗️ Closed issue [#37](https://github.com/tuum-tech/assist-restapi-backend/issues/37) in [tuum-tech/assist-restapi-backend](https://github.com/tuum-tech/assist-restapi-backend)
+4. ❗️ Closed issue [#38](https://github.com/tuum-tech/assist-restapi-backend/issues/38) in [tuum-tech/assist-restapi-backend](https://github.com/tuum-tech/assist-restapi-backend)
+5. 🎉 Merged PR [#4](https://github.com/elastos/Elastos.DID.JS.SDK/pull/4) in [elastos/Elastos.DID.JS.SDK](https://github.com/elastos/Elastos.DID.JS.SDK)
 <!--END_SECTION:activity-->
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-ruddy-two.vercel.app/api?username=kpachhai&show_icons=true&hide_border=true" />
