@@ -46,11 +46,11 @@
 ### Latest Github Activity:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#71](https://github.com/elastos/Elastos.NET.Hive.Node/pull/71) in [elastos/Elastos.NET.Hive.Node](https://github.com/elastos/Elastos.NET.Hive.Node)
-2. 🎉 Merged PR [#1](https://github.com/tuum-tech/Elastos.NET.Hive.JS.SDK/pull/1) in [tuum-tech/Elastos.NET.Hive.JS.SDK](https://github.com/tuum-tech/Elastos.NET.Hive.JS.SDK)
-3. ❗️ Closed issue [#7](https://github.com/tuum-tech/did-email-validator/issues/7) in [tuum-tech/did-email-validator](https://github.com/tuum-tech/did-email-validator)
-4. ❗️ Closed issue [#37](https://github.com/tuum-tech/assist-restapi-backend/issues/37) in [tuum-tech/assist-restapi-backend](https://github.com/tuum-tech/assist-restapi-backend)
-5. ❗️ Closed issue [#38](https://github.com/tuum-tech/assist-restapi-backend/issues/38) in [tuum-tech/assist-restapi-backend](https://github.com/tuum-tech/assist-restapi-backend)
+1. 🎉 Merged PR [#1](https://github.com/tuum-tech/Elastos.DID.JS.SDK/pull/1) in [tuum-tech/Elastos.DID.JS.SDK](https://github.com/tuum-tech/Elastos.DID.JS.SDK)
+2. 💪 Opened PR [#71](https://github.com/elastos/Elastos.NET.Hive.Node/pull/71) in [elastos/Elastos.NET.Hive.Node](https://github.com/elastos/Elastos.NET.Hive.Node)
+3. 🎉 Merged PR [#1](https://github.com/tuum-tech/Elastos.NET.Hive.JS.SDK/pull/1) in [tuum-tech/Elastos.NET.Hive.JS.SDK](https://github.com/tuum-tech/Elastos.NET.Hive.JS.SDK)
+4. ❗️ Closed issue [#7](https://github.com/tuum-tech/did-email-validator/issues/7) in [tuum-tech/did-email-validator](https://github.com/tuum-tech/did-email-validator)
+5. ❗️ Closed issue [#37](https://github.com/tuum-tech/assist-restapi-backend/issues/37) in [tuum-tech/assist-restapi-backend](https://github.com/tuum-tech/assist-restapi-backend)
 <!--END_SECTION:activity-->
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-ruddy-two.vercel.app/api?username=kpachhai&show_icons=true&hide_border=true" />
