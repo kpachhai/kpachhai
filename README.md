@@ -46,11 +46,11 @@
 ### Latest Github Activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/elastos/Elastos.DID.JS.SDK/pull/8) in [elastos/Elastos.DID.JS.SDK](https://github.com/elastos/Elastos.DID.JS.SDK)
-2. 🎉 Merged PR [#7](https://github.com/elastos/Elastos.DID.JS.SDK/pull/7) in [elastos/Elastos.DID.JS.SDK](https://github.com/elastos/Elastos.DID.JS.SDK)
-3. 🎉 Merged PR [#2](https://github.com/tuum-tech/Elastos.DID.JS.SDK/pull/2) in [tuum-tech/Elastos.DID.JS.SDK](https://github.com/tuum-tech/Elastos.DID.JS.SDK)
-4. 🎉 Merged PR [#6](https://github.com/elastos/Elastos.DID.JS.SDK/pull/6) in [elastos/Elastos.DID.JS.SDK](https://github.com/elastos/Elastos.DID.JS.SDK)
-5. 🎉 Merged PR [#1](https://github.com/tuum-tech/Elastos.DID.JS.SDK/pull/1) in [tuum-tech/Elastos.DID.JS.SDK](https://github.com/tuum-tech/Elastos.DID.JS.SDK)
+1. 🎉 Merged PR [#9](https://github.com/elastos/Elastos.DID.JS.SDK/pull/9) in [elastos/Elastos.DID.JS.SDK](https://github.com/elastos/Elastos.DID.JS.SDK)
+2. 🎉 Merged PR [#8](https://github.com/elastos/Elastos.DID.JS.SDK/pull/8) in [elastos/Elastos.DID.JS.SDK](https://github.com/elastos/Elastos.DID.JS.SDK)
+3. 🎉 Merged PR [#7](https://github.com/elastos/Elastos.DID.JS.SDK/pull/7) in [elastos/Elastos.DID.JS.SDK](https://github.com/elastos/Elastos.DID.JS.SDK)
+4. 🎉 Merged PR [#2](https://github.com/tuum-tech/Elastos.DID.JS.SDK/pull/2) in [tuum-tech/Elastos.DID.JS.SDK](https://github.com/tuum-tech/Elastos.DID.JS.SDK)
+5. 🎉 Merged PR [#6](https://github.com/elastos/Elastos.DID.JS.SDK/pull/6) in [elastos/Elastos.DID.JS.SDK](https://github.com/elastos/Elastos.DID.JS.SDK)
 <!--END_SECTION:activity-->
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-ruddy-two.vercel.app/api?username=kpachhai&show_icons=true&hide_border=true" />
