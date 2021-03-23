@@ -46,11 +46,11 @@
 ### Latest Github Activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/elastos/Elastos.DID.JS.SDK/pull/13) in [elastos/Elastos.DID.JS.SDK](https://github.com/elastos/Elastos.DID.JS.SDK)
-2. 🎉 Merged PR [#12](https://github.com/elastos/Elastos.DID.JS.SDK/pull/12) in [elastos/Elastos.DID.JS.SDK](https://github.com/elastos/Elastos.DID.JS.SDK)
-3. 🎉 Merged PR [#221](https://github.com/cyber-republic/elastos-nucleus/pull/221) in [cyber-republic/elastos-nucleus](https://github.com/cyber-republic/elastos-nucleus)
-4. 🎉 Merged PR [#5](https://github.com/tuum-tech/webinars/pull/5) in [tuum-tech/webinars](https://github.com/tuum-tech/webinars)
-5. 🎉 Merged PR [#220](https://github.com/cyber-republic/elastos-nucleus/pull/220) in [cyber-republic/elastos-nucleus](https://github.com/cyber-republic/elastos-nucleus)
+1. ❗️ Closed issue [#52](https://github.com/tuum-tech/assist-capsule/issues/52) in [tuum-tech/assist-capsule](https://github.com/tuum-tech/assist-capsule)
+2. ❗️ Closed issue [#9](https://github.com/tuum-tech/assist-capsule/issues/9) in [tuum-tech/assist-capsule](https://github.com/tuum-tech/assist-capsule)
+3. ❗️ Closed issue [#63](https://github.com/tuum-tech/assist-capsule/issues/63) in [tuum-tech/assist-capsule](https://github.com/tuum-tech/assist-capsule)
+4. 🎉 Merged PR [#13](https://github.com/elastos/Elastos.DID.JS.SDK/pull/13) in [elastos/Elastos.DID.JS.SDK](https://github.com/elastos/Elastos.DID.JS.SDK)
+5. 🎉 Merged PR [#12](https://github.com/elastos/Elastos.DID.JS.SDK/pull/12) in [elastos/Elastos.DID.JS.SDK](https://github.com/elastos/Elastos.DID.JS.SDK)
 <!--END_SECTION:activity-->
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-ruddy-two.vercel.app/api?username=kpachhai&show_icons=true&hide_border=true" />
