@@ -46,11 +46,11 @@
 ### Latest Github Activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/elastos/Elastos.DID.JS.SDK/issues/1) in [elastos/Elastos.DID.JS.SDK](https://github.com/elastos/Elastos.DID.JS.SDK)
-2. ❗️ Closed issue [#17](https://github.com/elastos/Elastos.DID.JS.SDK/issues/17) in [elastos/Elastos.DID.JS.SDK](https://github.com/elastos/Elastos.DID.JS.SDK)
-3. 🎉 Merged PR [#14](https://github.com/elastos/Elastos.DID.JS.SDK/pull/14) in [elastos/Elastos.DID.JS.SDK](https://github.com/elastos/Elastos.DID.JS.SDK)
-4. 🎉 Merged PR [#15](https://github.com/elastos/Elastos.DID.JS.SDK/pull/15) in [elastos/Elastos.DID.JS.SDK](https://github.com/elastos/Elastos.DID.JS.SDK)
-5. ❗️ Closed issue [#52](https://github.com/tuum-tech/assist-capsule/issues/52) in [tuum-tech/assist-capsule](https://github.com/tuum-tech/assist-capsule)
+1. ❗️ Closed issue [#2](https://github.com/elastos/Elastos.DID.JS.SDK/issues/2) in [elastos/Elastos.DID.JS.SDK](https://github.com/elastos/Elastos.DID.JS.SDK)
+2. ❗️ Closed issue [#1](https://github.com/elastos/Elastos.DID.JS.SDK/issues/1) in [elastos/Elastos.DID.JS.SDK](https://github.com/elastos/Elastos.DID.JS.SDK)
+3. ❗️ Closed issue [#17](https://github.com/elastos/Elastos.DID.JS.SDK/issues/17) in [elastos/Elastos.DID.JS.SDK](https://github.com/elastos/Elastos.DID.JS.SDK)
+4. 🎉 Merged PR [#14](https://github.com/elastos/Elastos.DID.JS.SDK/pull/14) in [elastos/Elastos.DID.JS.SDK](https://github.com/elastos/Elastos.DID.JS.SDK)
+5. 🎉 Merged PR [#15](https://github.com/elastos/Elastos.DID.JS.SDK/pull/15) in [elastos/Elastos.DID.JS.SDK](https://github.com/elastos/Elastos.DID.JS.SDK)
 <!--END_SECTION:activity-->
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-ruddy-two.vercel.app/api?username=kpachhai&show_icons=true&hide_border=true" />
