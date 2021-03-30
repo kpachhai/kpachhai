@@ -46,11 +46,11 @@
 ### Latest Github Activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#222](https://github.com/cyber-republic/elastos-nucleus/pull/222) in [cyber-republic/elastos-nucleus](https://github.com/cyber-republic/elastos-nucleus)
-2. ❗️ Closed issue [#2](https://github.com/elastos/Elastos.DID.JS.SDK/issues/2) in [elastos/Elastos.DID.JS.SDK](https://github.com/elastos/Elastos.DID.JS.SDK)
-3. ❗️ Closed issue [#1](https://github.com/elastos/Elastos.DID.JS.SDK/issues/1) in [elastos/Elastos.DID.JS.SDK](https://github.com/elastos/Elastos.DID.JS.SDK)
-4. ❗️ Closed issue [#17](https://github.com/elastos/Elastos.DID.JS.SDK/issues/17) in [elastos/Elastos.DID.JS.SDK](https://github.com/elastos/Elastos.DID.JS.SDK)
-5. 🎉 Merged PR [#14](https://github.com/elastos/Elastos.DID.JS.SDK/pull/14) in [elastos/Elastos.DID.JS.SDK](https://github.com/elastos/Elastos.DID.JS.SDK)
+1. 🎉 Merged PR [#218](https://github.com/cyber-republic/elastos-nucleus/pull/218) in [cyber-republic/elastos-nucleus](https://github.com/cyber-republic/elastos-nucleus)
+2. 🎉 Merged PR [#219](https://github.com/cyber-republic/elastos-nucleus/pull/219) in [cyber-republic/elastos-nucleus](https://github.com/cyber-republic/elastos-nucleus)
+3. 🎉 Merged PR [#223](https://github.com/cyber-republic/elastos-nucleus/pull/223) in [cyber-republic/elastos-nucleus](https://github.com/cyber-republic/elastos-nucleus)
+4. 🎉 Merged PR [#11](https://github.com/tuum-tech/did-email-validator/pull/11) in [tuum-tech/did-email-validator](https://github.com/tuum-tech/did-email-validator)
+5. 🎉 Merged PR [#222](https://github.com/cyber-republic/elastos-nucleus/pull/222) in [cyber-republic/elastos-nucleus](https://github.com/cyber-republic/elastos-nucleus)
 <!--END_SECTION:activity-->
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-ruddy-two.vercel.app/api?username=kpachhai&show_icons=true&hide_border=true" />
