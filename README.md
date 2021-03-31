@@ -46,11 +46,11 @@
 ### Latest Github Activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#199](https://github.com/cyber-republic/CyberRepublic/pull/199) in [cyber-republic/CyberRepublic](https://github.com/cyber-republic/CyberRepublic)
-2. 🎉 Merged PR [#226](https://github.com/cyber-republic/CyberRepublic/pull/226) in [cyber-republic/CyberRepublic](https://github.com/cyber-republic/CyberRepublic)
-3. 🎉 Merged PR [#225](https://github.com/cyber-republic/CyberRepublic/pull/225) in [cyber-republic/CyberRepublic](https://github.com/cyber-republic/CyberRepublic)
-4. 🎉 Merged PR [#223](https://github.com/cyber-republic/CyberRepublic/pull/223) in [cyber-republic/CyberRepublic](https://github.com/cyber-republic/CyberRepublic)
-5. 🎉 Merged PR [#222](https://github.com/cyber-republic/CyberRepublic/pull/222) in [cyber-republic/CyberRepublic](https://github.com/cyber-republic/CyberRepublic)
+1. 🎉 Merged PR [#227](https://github.com/cyber-republic/CyberRepublic/pull/227) in [cyber-republic/CyberRepublic](https://github.com/cyber-republic/CyberRepublic)
+2. 🎉 Merged PR [#199](https://github.com/cyber-republic/CyberRepublic/pull/199) in [cyber-republic/CyberRepublic](https://github.com/cyber-republic/CyberRepublic)
+3. 🎉 Merged PR [#226](https://github.com/cyber-republic/CyberRepublic/pull/226) in [cyber-republic/CyberRepublic](https://github.com/cyber-republic/CyberRepublic)
+4. 🎉 Merged PR [#225](https://github.com/cyber-republic/CyberRepublic/pull/225) in [cyber-republic/CyberRepublic](https://github.com/cyber-republic/CyberRepublic)
+5. 🎉 Merged PR [#223](https://github.com/cyber-republic/CyberRepublic/pull/223) in [cyber-republic/CyberRepublic](https://github.com/cyber-republic/CyberRepublic)
 <!--END_SECTION:activity-->
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-ruddy-two.vercel.app/api?username=kpachhai&show_icons=true&hide_border=true" />
