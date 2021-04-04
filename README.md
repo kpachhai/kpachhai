@@ -46,11 +46,11 @@
 ### Latest Github Activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/cyber-republic/elaeth.io/pull/12) in [cyber-republic/elaeth.io](https://github.com/cyber-republic/elaeth.io)
-2. 🎉 Merged PR [#11](https://github.com/cyber-republic/elaeth.io/pull/11) in [cyber-republic/elaeth.io](https://github.com/cyber-republic/elaeth.io)
-3. 🎉 Merged PR [#8](https://github.com/cyber-republic/elaeth.io/pull/8) in [cyber-republic/elaeth.io](https://github.com/cyber-republic/elaeth.io)
-4. 🎉 Merged PR [#10](https://github.com/cyber-republic/elaeth.io/pull/10) in [cyber-republic/elaeth.io](https://github.com/cyber-republic/elaeth.io)
-5. 🎉 Merged PR [#9](https://github.com/cyber-republic/elaeth.io/pull/9) in [cyber-republic/elaeth.io](https://github.com/cyber-republic/elaeth.io)
+1. ❗️ Closed issue [#96](https://github.com/tuum-tech/vouch-capsule/issues/96) in [tuum-tech/vouch-capsule](https://github.com/tuum-tech/vouch-capsule)
+2. 🗣 Commented on [#96](https://github.com/tuum-tech/vouch-capsule/issues/96) in [tuum-tech/vouch-capsule](https://github.com/tuum-tech/vouch-capsule)
+3. 🎉 Merged PR [#12](https://github.com/cyber-republic/elaeth.io/pull/12) in [cyber-republic/elaeth.io](https://github.com/cyber-republic/elaeth.io)
+4. 🎉 Merged PR [#11](https://github.com/cyber-republic/elaeth.io/pull/11) in [cyber-republic/elaeth.io](https://github.com/cyber-republic/elaeth.io)
+5. 🎉 Merged PR [#8](https://github.com/cyber-republic/elaeth.io/pull/8) in [cyber-republic/elaeth.io](https://github.com/cyber-republic/elaeth.io)
 <!--END_SECTION:activity-->
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-ruddy-two.vercel.app/api?username=kpachhai&show_icons=true&hide_border=true" />
