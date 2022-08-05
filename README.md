@@ -1,13 +1,13 @@
 ### Hi there, I'm KP - aka [kpachhai][website] 👋
 
-[![Website](https://img.shields.io/website?label=kpwoods.me&style=for-the-badge&url=https%3A%2F%2Fkpwoods.me)](https://kpwoods.me)
+[![Website](https://img.shields.io/website?label=kiranpachhai.com&style=for-the-badge&url=https%3A%2F%2Fkiranpachhai.com)](https://kiranpachhai.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mr_pachhai?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkpachhai&screen_name=kpachhai)
 
-## I'm a Developer, Manager and Blockchain Enthusiast!!
+## I'm a Blockchain engineer, a Web developer and a Product Manager!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I can speak 4 languages
 
 ### Connect with me:
