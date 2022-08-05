@@ -53,7 +53,7 @@
 5. 🗣 Commented on [#96](https://github.com/tuum-tech/vouch-capsule/issues/96) in [tuum-tech/vouch-capsule](https://github.com/tuum-tech/vouch-capsule)
 <!--END_SECTION:activity-->
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-ruddy-two.vercel.app/api?username=kpachhai&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kpachhai&count_private=true&show_icons=true&hide_border=true&theme=radical" />
 
 [website]: https://kiranpachhai.com/
 [twitter]: https://twitter.com/mr_pachhai
