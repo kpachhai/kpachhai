@@ -43,16 +43,6 @@
 
 ---
 
-### Latest Github Activity:
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#224](https://github.com/cyber-republic/elastos-nucleus/pull/224) in [cyber-republic/elastos-nucleus](https://github.com/cyber-republic/elastos-nucleus)
-2. 🎉 Merged PR [#6](https://github.com/tuum-tech/webinars/pull/6) in [tuum-tech/webinars](https://github.com/tuum-tech/webinars)
-3. 🎉 Merged PR [#8](https://github.com/Ashwin-Pokharel/BudgetApp1/pull/8) in [Ashwin-Pokharel/BudgetApp1](https://github.com/Ashwin-Pokharel/BudgetApp1)
-4. ❗️ Closed issue [#96](https://github.com/tuum-tech/vouch-capsule/issues/96) in [tuum-tech/vouch-capsule](https://github.com/tuum-tech/vouch-capsule)
-5. 🗣 Commented on [#96](https://github.com/tuum-tech/vouch-capsule/issues/96) in [tuum-tech/vouch-capsule](https://github.com/tuum-tech/vouch-capsule)
-<!--END_SECTION:activity-->
-
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kpachhai&count_private=true&show_icons=true&hide_border=true&theme=radical" />
 
 [website]: https://kiranpachhai.com/
