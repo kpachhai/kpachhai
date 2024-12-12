@@ -47,6 +47,4 @@
 
 [website]: https://kiranpachhai.com/
 [twitter]: https://twitter.com/mr_pachhai
-[youtube]: https://www.youtube.com/channel/UCu1XxDJE84ZvgLJ-EssbveA
-[instagram]: https://instagram.com/kiranpwoods
 [linkedin]: https://linkedin.com/in/kiranpachhai
