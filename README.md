@@ -43,7 +43,8 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kpachhai&count_private=true&show_icons=true&hide_border=true&theme=radical" />
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 [website]: https://kiranpachhai.com/
 [twitter]: https://twitter.com/mr_pachhai
