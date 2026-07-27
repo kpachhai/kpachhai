@@ -6,7 +6,6 @@
 ## I'm a Blockchain engineer, a Web developer and a Product Manager!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I can speak 4 languages
 
